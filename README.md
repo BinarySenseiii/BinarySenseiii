@@ -7,11 +7,12 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCFkDnb4Ngnb3E6Tl9DhWpDg)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🤔 I’m looking for help with three.js documentation.
+- ⚡ Fun fact: I love to draw and play guitar
+- 🏋️ In my free time, you can find me longboarding 🛹 , at the gym
 
 ### Spotify Playing 🎧
 
