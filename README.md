@@ -35,8 +35,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <br /> <br />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BloodySteps&count_private=true&show_icons=true&theme=radical)
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
