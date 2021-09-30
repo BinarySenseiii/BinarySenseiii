@@ -7,7 +7,7 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCFkDnb4Ngnb3E6Tl9DhWpDg)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with three.js documentation.
