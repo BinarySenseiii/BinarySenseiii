@@ -9,7 +9,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCFkDnb4Ngnb3E6Tl9DhWpDg)
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with three.js documentation.
 - ⚡ Fun fact: I love to draw and play guitar
 - 🏋️ In my free time, you can find me longboarding 🛹 , at the gym
