@@ -7,7 +7,7 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning t3 Stack
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/)
 - 🤔 I’m looking for help with three.js documentation.
 - ⚡ Fun fact: I love to draw and play guitar
