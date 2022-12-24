@@ -1,3 +1,9 @@
+<div align="center">
+  <div style="background:#000000;">
+<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" />
+  </div>
+</div>
+
 ### Hi there, I'm Faisal tariq 👋
 
 [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yjZdWWNu) [![Mail Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/codewarwarriors/shared_invite/zt-jhio5e9i-0G9ggs_unaoQ9HaF7Cg8HA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithtyson@gmail.com)
