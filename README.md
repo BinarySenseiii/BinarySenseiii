@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="background:#000000;">
-<img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" width="100%" />
-  </div>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+ 
 </div>
 
 ### Hi there, I'm Faisal tariq 👋
