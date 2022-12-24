@@ -1,6 +1,6 @@
 <div align="center">
   <div style="background:#000000;">
-<img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" />
+<img src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" width="100%" />
   </div>
 </div>
 
