@@ -49,5 +49,5 @@ As a frontend developer with a focus on React, I am skilled at creating responsi
 [![Spotify](https://spotify-now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 </div>
