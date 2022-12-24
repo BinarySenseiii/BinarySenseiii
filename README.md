@@ -18,7 +18,7 @@ As a frontend developer with a focus on React, I am skilled at creating responsi
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - ⚡ Fun fact: I love to draw and play guitar
 - 🏋️ In my free time, you can find me longboarding 🛹 , at the gym
-- 💬 Ask me about anything. I will try to help you as much as I can.
+- 💬 I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
 - ⚡ Quote: There is always time. You just have to find it.
 
 ### 🛠 &nbsp;Tech Stack
@@ -45,8 +45,6 @@ As a frontend developer with a focus on React, I am skilled at creating responsi
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
->I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
 
 ### Spotify Playing 🎧
 
