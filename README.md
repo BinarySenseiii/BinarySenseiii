@@ -13,7 +13,6 @@ As a frontend developer with a focus on React, I am skilled at creating responsi
 
 - 💜 Kind people are my kinda people
 - 🌱 I’m currently learning [Strapi Headless CMS](https://strapi.io/)
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/)
 - 🤔 I’m looking for help with [three.js](https://threejs.org/) documentation.
 - ✍️ Pursuing Blog Writing as hobbies/side hustles.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
