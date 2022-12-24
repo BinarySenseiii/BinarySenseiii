@@ -44,13 +44,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+>I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
 <div align="center">
-
-  
-  >I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
-
+### Show some ❤️ by starring some of the repositories!
 </div>
