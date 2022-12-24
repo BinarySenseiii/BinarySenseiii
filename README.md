@@ -46,7 +46,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="BloodySteps Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://spotify-now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
 <div align="center">
 
