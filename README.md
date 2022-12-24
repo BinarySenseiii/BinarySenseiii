@@ -11,7 +11,7 @@
 
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+As a frontend developer with a focus on React, I am skilled at creating responsive, user-friendly applications that are both functional and visually appealing. I have experience with a variety of frontend technologies and am always looking for ways to expand my skillset and build better, more efficient applications
 
 - 🌱 I’m currently learning t3 Stack
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/)
