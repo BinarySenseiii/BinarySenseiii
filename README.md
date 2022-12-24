@@ -11,11 +11,16 @@
 
 As a frontend developer with a focus on React, I am skilled at creating responsive, user-friendly applications that are both functional and visually appealing. I have experience with a variety of frontend technologies and am always looking for ways to expand my skillset and build better, more efficient applications
 
+- 💜 Kind people are my kinda people
 - 🌱 I’m currently learning [Strapi Headless CMS](https://strapi.io/)
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/)
 - 🤔 I’m looking for help with [three.js](https://threejs.org/) documentation.
+- ✍️ Pursuing Blog Writing as hobbies/side hustles.
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 - ⚡ Fun fact: I love to draw and play guitar
 - 🏋️ In my free time, you can find me longboarding 🛹 , at the gym
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
 
 ### 🛠 &nbsp;Tech Stack
 
