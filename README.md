@@ -50,6 +50,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+  
+  >I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
 
 </div>
