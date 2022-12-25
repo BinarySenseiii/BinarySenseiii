@@ -4,8 +4,7 @@
   </div>
 </div>
 
-### Hi there, I'm Faisal tariq 👋
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ Hi there, I'm Faisal tariq 👋 ;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=f5f5f5&font=Peralta">
+### <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Catherine!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=F57b89&font=Peralta">
 
 
 [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yjZdWWNu) [![Mail Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/codewarwarriors/shared_invite/zt-jhio5e9i-0G9ggs_unaoQ9HaF7Cg8HA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithtyson@gmail.com)
