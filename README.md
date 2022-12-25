@@ -9,7 +9,7 @@
 [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yjZdWWNu) [![Mail Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/codewarwarriors/shared_invite/zt-jhio5e9i-0G9ggs_unaoQ9HaF7Cg8HA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithtyson@gmail.com)
 
 
-As a frontend developer with a focus on React, I am skilled at creating responsive, user-friendly applications that are both functional and visually appealing. I have experience with a variety of frontend technologies and am always looking for ways to expand my skillset and build better, more efficient applications
+As a frontend developer with a focus on React, I am skilled at creating responsive, user-friendly applications that are both functional and visually appealing. I have experience with a variety of frontend technologies and am always looking for ways to expand my skillset and building better everyday, more efficient applications
 
 - 💜 Kind people are my kinda people
 - 🌱 I’m currently learning [Strapi Headless CMS](https://strapi.io/)
