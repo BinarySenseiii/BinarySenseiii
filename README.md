@@ -5,7 +5,7 @@
 </div>
 
 
-<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=red&background=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Faisal+Tariq!%F0%9F%91%8B;Bringing+your+brand+to+life+online+%F0%9F%93%88+;and+i+Love+the+T3Stack+%F0%9F%9A%80">
+<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Faisal+Tariq!%F0%9F%91%8B;Bringing+your+brand+to+life+online+%F0%9F%93%88+;and+i+Love+the+T3Stack+%F0%9F%9A%80">
 
   
   [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yjZdWWNu) [![Mail Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/codewarwarriors/shared_invite/zt-jhio5e9i-0G9ggs_unaoQ9HaF7Cg8HA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithtyson@gmail.com)
