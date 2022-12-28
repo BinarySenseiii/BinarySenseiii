@@ -8,7 +8,7 @@
 <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Faisal+Tariq!%F0%9F%91%8B;Bringing+your+brand+to+life+online+%F0%9F%93%88+;and+i+Love+the+T3Stack+%F0%9F%9A%80">
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-react-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/react-dev/)](https://www.linkedin.com/in/react-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-reactdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/react-dev/)](https://www.linkedin.com/in/react-dev/)
 [![Instagram Badge](https://img.shields.io/badge/-faisal_grizz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/faisal_griz/)](https://www.instagram.com/faisal_griz/)
 [![Gmail Badge](https://img.shields.io/badge/-tariqfaisal649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tariqfaisal649@gmail.com)](mailto:tariqfaisal649@gmail.com)
 
