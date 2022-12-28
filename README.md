@@ -8,7 +8,9 @@
 <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Faisal+Tariq!%F0%9F%91%8B;Bringing+your+brand+to+life+online+%F0%9F%93%88+;and+i+Love+the+T3Stack+%F0%9F%9A%80">
 
   
-  [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yjZdWWNu) [![Mail Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/codewarwarriors/shared_invite/zt-jhio5e9i-0G9ggs_unaoQ9HaF7Cg8HA) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithtyson@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/react-dev/)](https://www.linkedin.com/in/react-dev/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/faisal_griz/)](https://www.instagram.com/faisal_griz/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tariqfaisal649@gmail.com)](mailto:tariqfaisal649@gmail.com)
 
 
 
