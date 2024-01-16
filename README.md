@@ -1,6 +1,6 @@
 <div align="center">
   <div style="background:#000000;">
-<img src="https://c.tenor.com/o-wNCEq_6f0AAAAd/tenor.gif"  />
+<img src="https://miro.medium.com/v2/resize:fit:1024/0*ALNL96YFdGdzWZVm.png"  />
     
   </div>
 </div> <br />
