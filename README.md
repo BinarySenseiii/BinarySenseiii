@@ -18,7 +18,7 @@
 As a frontend developer with a focus on React, I am skilled at creating responsive, user-friendly applications that are both functional and visually appealing. I have experience with a variety of frontend technologies and am always looking for ways to expand my skillset and build better websites & more efficient applications
 
 - 💜 Kind people are my kinda people
-- 🌱 I’m currently learning [Drizzle ORM](https://orm.drizzle.team/)
+- 🌱 I’m currently learning [SQL Databases](https://www.postgresql.org/) & [Drizzle ORM](https://orm.drizzle.team/)
 - 🤔 I’m looking for help with [three.js](https://threejs.org/) documentation.
 - ✍️ Pursuing Blog Writing as hobbies/side hustles.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
